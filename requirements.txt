@@ -1,0 +1,21 @@
+# Core data collection and analysis
+requests
+pandas
+numpy
+
+# Visualization
+matplotlib
+wordcloud
+
+# Network analysis
+networkx>=3.0
+
+# NLP / machine learning
+nltk
+scikit-learn
+transformers
+torch
+
+# Notebook environment
+notebook
+ipykernel
